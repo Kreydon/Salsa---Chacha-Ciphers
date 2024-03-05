@@ -9,4 +9,4 @@ Este repositorio contiene dos implementaciones de cifradores de flujo en formato
 
 ## Uso
 
-Para utilizar cualquiera de estos cifradores, simplemente abre el cuaderno correspondiente (.ipynb) en un entorno de Jupyter Notebook compatible con Python y sigue las instrucciones proporcionadas en el mismo. Asegúrate de tener las dependencias necesarias instaladas antes de ejecutar los cuadernos.
+Para utilizar cualquiera de estos cifradores, simplemente abre el cuaderno correspondiente (.ipynb) en un entorno de Jupyter Notebook compatible con Python.
